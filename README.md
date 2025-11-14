@@ -1,5 +1,6 @@
-```md
-# 🏥 Personalized Healthcare Recommendation System
+# 🏥 Personalized Healthcare Recommendation System  
+**🔗 Live Deployment:**  
+👉 **[Launch the Streamlit App 🚀](https://personalized-healthcare-recommendations-by-isaar.streamlit.app/)**  
 
 An end-to-end machine learning solution designed to **predict heart disease risk** and deliver **personalized healthcare recommendations** through an interactive **Streamlit web application**.
 
@@ -35,7 +36,7 @@ This project analyzes cardiovascular health data from **cleaned_merged_heart_dat
 ### 🧠 Final Model  
 - **Algorithm:** Logistic Regression  
 - **Accuracy:** 72%  
-- **Why:** Interpretable, reliable, and ideal for healthcare use cases  
+- **Why:** Interpretable, reliable, and well-suited for healthcare classification tasks  
 
 ---
 
@@ -108,5 +109,4 @@ streamlit run app.py
 
 ## ✅ Conclusion
 
-This project delivers a complete ML-powered healthcare system capable of predicting heart disease risk and providing personalized lifestyle recommendations—supporting early detection and informed clinical decisions.
-```
+This project delivers a full-stack ML-powered healthcare prediction system that identifies heart disease risk and provides actionable, personalized recommendations—supporting early detection, patient awareness, and informed clinical decisions.
