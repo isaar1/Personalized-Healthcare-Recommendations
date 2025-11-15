@@ -1,6 +1,6 @@
 # 🏥 Personalized Healthcare Recommendation System  
 **🔗 Live Deployment:**  
-👉 **[Launch the Streamlit App 🚀](https://personalized-healthcare-recommendations-by-isaar.streamlit.app/)**  
+👉 **(https://personalized-healthcare-recommendations-by-isaar.streamlit.app/)**  
 
 An end-to-end machine learning solution designed to **predict heart disease risk** and deliver **personalized healthcare recommendations** through an interactive **Streamlit web application**.
 
